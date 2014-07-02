@@ -53,7 +53,7 @@ example #3
 > zhuangbiaowei/rails-warden-mongodb-oauth version=0.1 published!  
 
 
-expamle #4
+example #4
 
 > ~$dp create myprj3 by zhuangbiaowei/rails-warden-mongodb-oauth
 > 
@@ -66,3 +66,21 @@ expamle #4
 > ~/myprj3$dp modify-config config/database.yml
 > 
 > ~/myprj3$dp publish rails-warden-mongodb-oauth version=0.2
+
+example #5
+
+> ~$git clone git_url
+>
+> ~$cd prj
+>
+> ~/prj$dp check
+>
+> ubuntu ... 13.04 OK
+>
+> rails ... 4.0 OK
+>
+> warden ... need install
+>
+> mongodb ... need install
+>
+> ruby:mongodb ... need install
