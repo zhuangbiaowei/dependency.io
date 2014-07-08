@@ -1,4 +1,4 @@
-# depand.io
+# dependency.io
 
 example #1
 
