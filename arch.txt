@@ -11,5 +11,5 @@
 +--------------------------------------+
 |         Dependency Tools             |
 |------------------+-------------------|
-|  Pull Knowledge  |  Pull Knowledge   |
+|  Pull Knowledge  |  Push Knowledge   |
 +------------------+-------------------+
